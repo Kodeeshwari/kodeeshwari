@@ -1,0 +1,48 @@
+{
+    "skill": [{
+        "category": "Graphic Design",
+        "subskills": [
+            "UI Design",
+            "Website & Digital Design",
+            "Branding & Visual Identity",
+            "Print Design"
+        ]
+    }],
+    "work": [{
+        "title": "A Japanese Constellation",
+        "date": "15, Feb 2018",
+        "imageSrc": "images/img-1.jpg",
+        "link": "blog.html",
+        "description": "When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove"
+    }, {
+        "title": "A Japanese Constellation",
+        "date": "15, Feb 2018",
+        "imageSrc": "images/img-1.jpg",
+        "link": "blog.html",
+        "description": "When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove"
+    }, {
+        "title": "A Japanese Constellation",
+        "date": "15, Feb 2018",
+        "imageSrc": "images/img-1.jpg",
+        "link": "blog.html",
+        "description": "When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove"
+    }, {
+        "title": "A Chinese Constellation",
+        "date": "15, Feb 2018",
+        "imageSrc": "images/img-1.jpg",
+        "link": "blog.html",
+        "description": "When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove"
+    }, {
+        "title": "A Japanese Constellation",
+        "date": "15, Feb 2018",
+        "imageSrc": "images/img-2.jpg",
+        "link": "blog.html",
+        "description": "When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove"
+    }, {
+        "title": "A India Constellation",
+        "date": "15, Feb 2018",
+        "imageSrc": "images/img-1.jpg",
+        "link": "blog.html",
+        "description": "When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove"
+    }]
+}
