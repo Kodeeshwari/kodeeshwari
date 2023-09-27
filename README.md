@@ -20,7 +20,7 @@ Hey there! 👋 I'm Kodeeshwari Solanki, an IT Programmer Analyst Student at Las
 
 - 🎓 **Education:** IT Programmer Analyst Student at Lasalle College
 - 💼 **Current Role:** Student
-- 🌱 **Learning:** Swift, iOS development, UI/UX design
+- 🌱 **Learning:** Swift, iOS development, Web Development, Android Development, UI/UX design
 - 😄 **Pronouns:** She/Her
 
 ## Skills
@@ -60,8 +60,8 @@ Hey there! 👋 I'm Kodeeshwari Solanki, an IT Programmer Analyst Student at Las
 
 ## Let's Connect
 
-- 📧 **Email:** YOUR_EMAIL@gmail.com
-- 💼 **LinkedIn:** [Your LinkedIn Profile](linkedin.com/in/kodeeshwari/)
+- 📧 **Email:** kodeeshwari09@gmail.com
+- 💼 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/kodeeshwari/)
 - 💻 **GitHub:** [Your GitHub Profile](https://github.com/Kodeeshwari)
 
 Feel free to connect with me! Let's learn and grow together in the amazing world of iOS app development. 🚀
