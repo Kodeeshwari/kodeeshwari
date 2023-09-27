@@ -7,42 +7,76 @@
             "Branding & Visual Identity",
             "Print Design"
         ]
+    }, {
+        "category": "Web Design",
+        "subskills": [
+            "UI Design",
+            "Website & Digital Design",
+            "Branding & Visual Identity",
+            "Print Design"
+        ]
+    }, {
+        "category": "Graphic Design",
+        "subskills": [
+            "UI Design",
+            "Website & Digital Design",
+            "Branding & Visual Identity",
+            "Print Design"
+        ]
+    }, {
+        "category": "Graphic Design",
+        "subskills": [
+            "UI Design",
+            "Website & Digital Design",
+            "Branding & Visual Identity",
+            "Print Design"
+        ]
     }],
     "work": [{
         "title": "A Japanese Constellation",
         "date": "15, Feb 2018",
-        "imageSrc": "images/img-1.jpg",
+        "imageSrc": "images/work/img-1.jpg",
         "link": "blog.html",
         "description": "When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove"
     }, {
         "title": "A Japanese Constellation",
         "date": "15, Feb 2018",
-        "imageSrc": "images/img-1.jpg",
+        "imageSrc": "images/work/img-1.jpg",
         "link": "blog.html",
         "description": "When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove"
     }, {
         "title": "A Japanese Constellation",
         "date": "15, Feb 2018",
-        "imageSrc": "images/img-1.jpg",
+        "imageSrc": "images/work/img-1.jpg",
         "link": "blog.html",
         "description": "When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove"
     }, {
         "title": "A Chinese Constellation",
         "date": "15, Feb 2018",
-        "imageSrc": "images/img-1.jpg",
+        "imageSrc": "images/work/img-2.jpg",
         "link": "blog.html",
         "description": "When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove"
     }, {
         "title": "A Japanese Constellation",
         "date": "15, Feb 2018",
-        "imageSrc": "images/img-2.jpg",
+        "imageSrc": "images/work/img-3.jpg",
         "link": "blog.html",
         "description": "When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove"
     }, {
         "title": "A India Constellation",
         "date": "15, Feb 2018",
-        "imageSrc": "images/img-1.jpg",
+        "imageSrc": "images/work/img-4.jpg",
         "link": "blog.html",
         "description": "When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove"
-    }]
+    }],
+    "testimonials": [{
+            "quote": "Kodeeshwari is an invaluable asset, showcasing exceptional commitment, expertise, and a positive, supportive approach in iOS development.",
+            "author": "Daniel Carvalho",
+            "link": "https://www.linkedin.com/in/kodeeshwari/"
+        },
+        {
+            "quote": "Even the all-powerful Pointing has no control about the blind texts...",
+            "author": "Daniel Foster"
+        }
+    ]
 }
