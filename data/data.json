@@ -2,7 +2,7 @@
     "skill": [{
         "category": "Mobile Technology",
         "subskills": [
-            "Swift, Android",
+            "Swift, SwiftUI, Android",
             "Xcode, Android Studio",
             "MVC Architecture, OOP Concepts",
             "Adobe XD, Figma"
@@ -32,28 +32,34 @@
     }],
     "work": [{
         "title": "Weather to Wear",
-        "date": "10, Apr 2023",
-        "imageSrc": "images/work/img-2.png",
+        "imageSrc": "images/work/weather-to-wear.png",
         "link": "https://github.com/Kodeeshwari/WeatherToWear",
         "description": "Create an iOS application called 'Weather to Wear' that provides clothing recommendations based on weather conditions and location, along with a 10-day weather forecast for users."
     }, {
         "title": "Flash Chat",
-        "date": "15, Feb 2023",
-        "imageSrc": "images/work/img-1.png",
+        "imageSrc": "images/work/flash.png",
         "link": "https://github.com/Kodeeshwari/Flash-Chat-iOS-App",
         "description": "Flash Chat is a chat platform that enables users to create an account, log in, and exchange messages within the chat interface. Additionally, the application features an eye-catching animated logo."
     }, {
         "title": "Tic Tac Toe",
-        "date": "15, Jul 2023",
-        "imageSrc": "images/work/img-1.png",
+        "imageSrc": "images/work/tictoc.png",
         "link": "https://github.com/Kodeeshwari/TicTacToe-iOS-App",
         "description": "In my iOS Tic Tac Toe game, players can place their marks (X or O) on the grid, aiming to achieve a winning pattern. The app recognizes and highlights a player's victory, adding excitement and engagement to the gameplay."
     }, {
         "title": "Clima",
-        "date": "15, Jun 2023",
-        "imageSrc": "images/work/img-1.png",
+        "imageSrc": "images/work/clima.png",
         "link": "https://github.com/Kodeeshwari/Clima-Weather-App",
         "description": "Clima is a weather application that retrieves current weather information for a specified location. Additionally, it adapts its background to suit either a light or dark theme, enhancing the user experience based on their preference and time of day"
+    }, {
+        "title": "Quizler",
+        "imageSrc": "images/work/quize.png",
+        "link": "https://github.com/Kodeeshwari/Quizzler",
+        "description": "The Quiz App presents users with a variety of quizzes, allowing them to answer true or false based on their knowledge. As users progress through the questions, their scores dynamically reflect their accuracy, providing an interactive and engaging quiz-taking experience."
+    }, {
+        "title": "Xylophone",
+        "imageSrc": "images/work/zylophone.png",
+        "link": "https://github.com/Kodeeshwari/Xylophone-iOS-App",
+        "description": "Xylophone is an engaging iOS app that allows users to create delightful tunes by pressing alphabetic buttons from A to G in various sequences, resulting in harmonious musical compositions at their fingertips."
     }],
     "testimonials": [{
             "quote": "Kodeeshwari is an invaluable asset, showcasing exceptional commitment, expertise, and a positive, supportive approach in iOS development.",

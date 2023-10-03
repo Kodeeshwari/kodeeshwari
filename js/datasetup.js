@@ -30,15 +30,15 @@ function displayWork(workData) {
             const workHTML = `
      <div class="col-md-4">
        <div class="article animate-box fadeInUp animated">
-         <a href="${workItem.link}" class="blog-img">
-           <img class="img-responsive" src="${workItem.imageSrc}" alt="html5 bootstrap by colorlib.com">
+         <a href="${workItem.link}" target="_blank" class="blog-img">
+           <img class="img-responsive" src="${workItem.imageSrc}" alt="${workItem.title}">
            <div class="overlay"></div>
            <div class="link">
              <span class="read">Read more</span>
            </div>
          </a>
          <div class="desc">
-           <span class="meta">${workItem.date}</span>
+           
            <h2><a href="${workItem.link}">${workItem.title}</a></h2>
            <p>${workItem.description}</p>
          </div>
@@ -64,14 +64,14 @@ function displayWorkHome(workData) {
        <div class="col-md-12">
          <div class="article">
            <a href="${workItem.link}" class="blog-img">
-             <img class="img-responsive" src="${workItem.imageSrc}" alt="html5 bootstrap by colorlib.com">
+             <img class="img-responsive" src="${workItem.imageSrc}" alt="${workItem.title}">
              <div class="overlay"></div>
              <div class="link">
-               <span class="read">Read more</span>
+               <span class="read">Project Link</span>
              </div>
            </a>
            <div class="desc">
-             <span class="meta">${workItem.date}</span>
+            <!-- <span class="meta">iOS App</span>-->
              <h2><a href="${workItem.link}">${workItem.title}</a></h2>
              <p>${workItem.description}</p>
            </div>
