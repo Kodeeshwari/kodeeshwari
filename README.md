@@ -27,12 +27,12 @@ Hey there! 👋 I'm Kodeeshwari Solanki, an IT Programmer Analyst Student at Las
 
 - 💻 **Programming Languages:**
   Swift, Python, Java, PHP, JavaScript, C, C#, C++, SQL, OOP Concept, MVC Architectural.
-  
-- 🌐 **Web Technologies:**
-  React.JS, Node.JS, Express JS, Vue.JS, Laravel, ECMAScript, HTML, CSS, Bootstrap, Ajax, jQuery, RESTful, JSON, Web Animation, WordPress, jQuery.
-  
+
 - 📱 **Mobile Technologies:**
   iOS app development.
+  
+- 🌐 **Web Technologies:**
+  React.JS, Node.JS, Laravel, ECMAScript, HTML, CSS, Bootstrap, Ajax, jQuery, RESTful, JSON, Web Animation, WordPress, jQuery.
   
 - 🗃️ **Database:**
   MySQL, SQL Server, Firebase, SQLite, Oracle, MongoDB, Workbench.
