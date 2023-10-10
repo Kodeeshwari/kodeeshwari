@@ -62,8 +62,13 @@
         "description": "Xylophone is an engaging iOS app that allows users to create delightful tunes by pressing alphabetic buttons from A to G in various sequences, resulting in harmonious musical compositions at their fingertips."
     }],
     "testimonials": [{
-        "quote": "Kodeeshwari is an invaluable asset, showcasing exceptional commitment, expertise, and a positive, supportive approach in iOS development.",
-        "author": "Daniel Carvalho",
-        "link": "https://www.linkedin.com/in/kodeeshwari/"
-    }]
+            "quote": "Kodeeshwari is an invaluable asset, showcasing exceptional commitment, expertise, and a positive, supportive approach in iOS development.",
+            "author": "Daniel Carvalho",
+            "link": "https://www.linkedin.com/in/kodeeshwari/"
+        },
+        {
+            "quote": "Even the all-powerful Pointing has no control about the blind texts...",
+            "author": "Daniel Foster"
+        }
+    ]
 }
