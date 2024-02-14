@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="images/personal/banner.jpeg" alt="Profile Image">
+  <img src="images/personal/mobileAppDevBg.png" alt="Profile Image">
 </p>
 <p align="center">
- Innovative Mobile App Developer | IT Programmer Analyst
+  Innovative Mobile App Developer | IT Programmer Analyst
 </p>
 
 <p align="center">
