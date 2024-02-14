@@ -61,7 +61,7 @@ Hey there! 👋 I'm Kodeeshwari Solanki, an graduated IT Programmer Analyst from
 ## Let's Connect
 
 - 📧 **Email:** kodeeshwari09@gmail.com
-- 💼 **Portfolio:** [Kodeeshwari Portfolio](https://kodeeshwari.me/)
+- 🌐 **Portfolio:** [Kodeeshwari Portfolio](https://kodeeshwari.me/)
 - 💼 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/kodeeshwari/)
 - 💻 **GitHub:** [Your GitHub Profile](https://github.com/Kodeeshwari)
 
