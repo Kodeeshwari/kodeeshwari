@@ -2,7 +2,7 @@
   <img src="images/mobileAppDevBg.png" alt="Profile Image">
 </p>
 <p align="center">
-  Innovative Mobile App Developer | IT Programmer Analyst
+  Aspiring Mobile App Developer | IT Programmer Analyst
 </p>
 
 <p align="center">

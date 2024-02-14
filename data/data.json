@@ -2,8 +2,8 @@
     "skill": [{
         "category": "Mobile Technology",
         "subskills": [
-            "Swift, SwiftUI, Android",
-            "Xcode, Android Studio",
+            "Dart, Swift, SwiftUI, Android",
+            "Xcode, Flutter, Android Studio",
             "MVC Architecture, OOP Concepts",
             "Adobe XD, Figma"
         ]
