@@ -49,20 +49,20 @@ Hey there! 👋 I'm Kodeeshwari Solanki, an graduated IT Programmer Analyst from
 ## Projects
 
 1. **Weather To Wear (iOS app) - Academic Project**
-   Description: [Brief description of the Weather To Wear app.](https://github.com/Kodeeshwari/WeatherToWear)
+   Description: [View project](https://github.com/Kodeeshwari/WeatherToWear)
    
 2. **Todo App (Flutter app) - Portfolio Project**
-   Description: [Brief description of the Todo App.]
+   Description: [View project]()
    
 3. **Flash Chat (iOS app) - Portfolio Project**
-   Description: [Brief description of the Flash Chat App.](https://github.com/Kodeeshwari/Flash-Chat-iOS-App)
+   Description: [View project](https://github.com/Kodeeshwari/Flash-Chat-iOS-App)
 
 
 ## Let's Connect
 
 - 📧 **Email:** kodeeshwari09@gmail.com
 - 🌐 **Portfolio:** [Kodeeshwari Portfolio](https://kodeeshwari.me/)
-- 💼 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/kodeeshwari/)
-- 💻 **GitHub:** [Your GitHub Profile](https://github.com/Kodeeshwari)
+- 💼 **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/kodeeshwari/)
+- 💻 **GitHub:** [GitHub Profile](https://github.com/Kodeeshwari)
 
 Feel free to connect with me! Let's learn and grow together in the amazing world of mobile app development. 🚀
