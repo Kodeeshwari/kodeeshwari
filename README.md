@@ -48,14 +48,11 @@ Hey there! 👋 I'm Kodeeshwari Solanki, an graduated IT Programmer Analyst from
 
 ## Projects
 
-1. **Weather To Wear (iOS app) - Academic Project**
-   Description: [View project](https://github.com/Kodeeshwari/WeatherToWear)
+1. **Weather To Wear (iOS app) - Academic Project** [View project](https://github.com/Kodeeshwari/WeatherToWear)
    
-2. **Todo App (Flutter app) - Portfolio Project**
-   Description: [View project]()
+2. **Todo App (Flutter app) - Portfolio Project** [View project]()
    
-3. **Flash Chat (iOS app) - Portfolio Project**
-   Description: [View project](https://github.com/Kodeeshwari/Flash-Chat-iOS-App)
+3. **Flash Chat (iOS app) - Portfolio Project** [View project](https://github.com/Kodeeshwari/Flash-Chat-iOS-App)
 
 
 ## Let's Connect
